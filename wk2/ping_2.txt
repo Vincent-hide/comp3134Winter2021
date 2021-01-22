@@ -1,0 +1,50 @@
+Vincent@DESKTOP-6I30N1E MINGW64 ~/.ssh
+$ ssh root@134.122.35.219 -i ./
+load pubkey "./": Is a directory
+Load key "./": Is a directory
+root@134.122.35.219: Permission denied (publickey).
+
+Vincent@DESKTOP-6I30N1E MINGW64 ~/.ssh
+$ ssh root@134.122.35.219 -i ./vince
+Welcome to Ubuntu 20.04.1 LTS (GNU/Linux 5.4.0-42-generic x86_64)
+
+ * Documentation:  https://help.ubuntu.com
+ * Management:     https://landscape.canonical.com
+ * Support:        https://ubuntu.com/advantage
+
+  System information as of Fri Jan 22 21:24:45 UTC 2021
+
+  System load:  0.0                Users logged in:       0
+  Usage of /:   11.4% of 24.06GB   IPv4 address for eth0: 134.122.35.219
+  Memory usage: 58%                IPv4 address for eth0: 10.20.0.5
+  Swap usage:   0%                 IPv4 address for eth1: 10.118.0.2
+  Processes:    118
+
+108 updates can be installed immediately.
+1 of these updates is a security update.
+To see these additional updates run: apt list --upgradable
+
+
+*** System restart required ***
+********************************************************************************
+
+Welcome to DigitalOcean's 1-Click LAMP Droplet.
+To keep this Droplet secure, the UFW firewall is enabled.
+All ports are BLOCKED except 22 (SSH), 80 (HTTP), and 443 (HTTPS).
+
+In a web browser, you can view:
+ * The LAMP 1-Click Quickstart guide: https://do.co/3gY97ha#start
+ * Your LAMP website: http://134.122.35.219
+
+On the server:
+ * The default web root is located at /var/www/html
+ * The MySQL root password is saved in /root/.digitalocean_password
+ * Certbot is preinstalled. Run it to configure HTTPS. See
+   https://do.co/3gY97ha#enable-https for more detail.
+
+For help and more information, visit https://do.co/3gY97ha
+
+********************************************************************************
+To delete this message of the day: rm -rf /etc/update-motd.d/99-one-click
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# ls
+snap

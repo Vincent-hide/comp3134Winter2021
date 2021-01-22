@@ -1,0 +1,71 @@
+nmap www.nestjs.com
+  root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# nmap www.nestjs.com
+  Starting Nmap 7.80 ( https://nmap.org ) at 2021-01-22 22:15 UTC
+  Nmap scan report for www.nestjs.com (54.177.0.157)
+  Host is up (0.059s latency).
+  Other addresses for www.nestjs.com (not scanned): 13.56.125.91 2604:a880:400:d0::6d9:d001 2604:a880:400:d0::72a:f001
+  rDNS record for 54.177.0.157: ec2-54-177-0-157.us-west-1.compute.amazonaws.com
+  Not shown: 997 filtered ports
+  PORT     STATE  SERVICE
+  80/tcp   open   http
+  443/tcp  open   https
+  8300/tcp closed tmi
+
+
+nmap -p 80 www.nestjs.com
+  root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# nmap -p 80 www.nestjs.com
+  Starting Nmap 7.80 ( https://nmap.org ) at 2021-01-22 22:16 UTC
+  Nmap scan report for www.nestjs.com (157.245.130.6)
+  Host is up (0.013s latency).
+  Other addresses for www.nestjs.com (not scanned): 198.199.66.189 2600:1f1c:471:9d01:a22b:a9fa:fb5b:4d31 2604:a880:400:d0::6d9:d001
+
+  PORT   STATE SERVICE
+  80/tcp open  http
+
+  Nmap done: 1 IP address (1 host up) scanned in 11.36 seconds
+
+nmap -p 80-100 www.nestjs.com
+  root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# nmap -p 80-100 www.nestjs.com
+  Starting Nmap 7.80 ( https://nmap.org ) at 2021-01-22 22:18 UTC
+  Nmap scan report for www.nestjs.com (157.245.130.6)
+  Host is up (0.012s latency).
+  Other addresses for www.nestjs.com (not scanned): 104.248.63.231 2604:a880:400:d0::6d9:d001 2604:a880:400:d0::caa:3001
+
+  PORT    STATE    SERVICE
+  80/tcp  open     http
+  81/tcp  filtered hosts2-ns
+  82/tcp  filtered xfer
+  83/tcp  filtered mit-ml-dev
+  84/tcp  filtered ctf
+  85/tcp  filtered mit-ml-dev
+  86/tcp  filtered mfcobol
+  87/tcp  filtered priv-term-l
+  88/tcp  filtered kerberos-sec
+  89/tcp  filtered su-mit-tg
+  90/tcp  filtered dnsix
+  91/tcp  filtered mit-dov
+  92/tcp  filtered npp
+  93/tcp  filtered dcp
+  94/tcp  filtered objcall
+  95/tcp  filtered supdup
+  96/tcp  filtered dixie
+  97/tcp  filtered swift-rvf
+  98/tcp  filtered linuxconf
+  99/tcp  filtered metagram
+  100/tcp filtered newacct
+
+  Nmap done: 1 IP address (1 host up) scanned in 12.69 seconds
+
+nmap -F www.nestjs.com
+  root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# nmap -F www.nestjs.com
+  Starting Nmap 7.80 ( https://nmap.org ) at 2021-01-22 22:19 UTC
+  Nmap scan report for www.nestjs.com (104.248.63.248)
+  Host is up (0.013s latency).
+  Other addresses for www.nestjs.com (not scanned): 162.243.166.170 2600:1f1c:471:9d01:a22b:a9fa:fb5b:4d31 2604:a880:400:d1::895:1
+  Not shown: 98 filtered ports
+  PORT    STATE SERVICE
+  80/tcp  open  http
+  443/tcp open  https
+
+  Nmap done: 1 IP address (1 host up) scanned in 13.00 seconds
+

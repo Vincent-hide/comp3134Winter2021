@@ -1,0 +1,13 @@
+  1    <1 ms    <1 ms    <1 ms  mynetwork [192.168.2.1]
+  2   378 ms    65 ms    25 ms  10.11.6.177
+  3     *        *        *     Request timed out.
+  4    21 ms    15 ms    24 ms  tcore4-toronto21_hu2/5/0/3_35.net.bell.ca [64.230.59.188]
+  5    23 ms    22 ms    15 ms  tcore4-chicagocp_hundredgige0-8-0-0.net.bell.ca [64.230.79.153]
+  6    22 ms    17 ms    16 ms  bx9-chicagodt_ae1-0.net.bell.ca [64.230.79.75]
+  7     *        *        *     Request timed out.
+  8     *        *        *     Request timed out.
+  9    44 ms    33 ms    35 ms  4.14.218.30
+ 10     *        *        *     Request timed out.
+ 11     *        *        *     Request timed out.
+ 12     *        *        *     Request timed out.
+ 13    47 ms    32 ms    32 ms  104.248.63.231

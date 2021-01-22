@@ -1,0 +1,318 @@
+react.com
+  Registrant Contact Information:
+  Name
+  Domain Admin
+  Organization
+  Facebook, Inc.
+  Address
+  1601 Willow Rd
+  City
+  Menlo Park
+  State / Province
+  CA
+  Postal Code
+  94025
+  Country
+  US
+  Phone
+  +1.6505434800
+  Fax
+  +1.6505434800
+  Email
+
+
+  Administrative Contact Information:
+  Name
+  Domain Admin
+  Organization
+  Facebook, Inc.
+  Address
+  1601 Willow Rd
+  City
+  Menlo Park
+  State / Province
+  CA
+  Postal Code
+  94025
+  Country
+  US
+  Phone
+  +1.6505434800
+  Fax
+  +1.6505434800
+  Email
+
+
+  Technical Contact Information:
+  Name
+  Domain Admin
+  Organization
+  Facebook, Inc.
+  Address
+  1601 Willow Rd
+  City
+  Menlo Park
+  State / Province
+  CA
+  Postal Code
+  94025
+  Country
+  US
+  Phone
+  +1.6505434800
+  Fax
+  +1.6505434800
+  Email
+
+javascript.com
+  Registrant Contact Information:
+  Name
+  REDACTED FOR PRIVACY
+  Organization
+  REDACTED FOR PRIVACY
+  Address
+  REDACTED FOR PRIVACY
+  City
+  REDACTED FOR PRIVACY
+  State / Province
+  UT
+  Postal Code
+  REDACTED FOR PRIVACY
+  Country
+  US
+  Phone
+  REDACTED FOR PRIVACY
+  Fax
+  REDACTED FOR PRIVACY
+  Email
+
+
+  Administrative Contact Information:
+  Name
+  REDACTED FOR PRIVACY
+  Organization
+  REDACTED FOR PRIVACY
+  Address
+  REDACTED FOR PRIVACY
+  City
+  REDACTED FOR PRIVACY
+  State / Province
+  UT
+  Postal Code
+  REDACTED FOR PRIVACY
+  Country
+  US
+  Phone
+  REDACTED FOR PRIVACY
+  Fax
+  REDACTED FOR PRIVACY
+  Email
+
+
+  Technical Contact Information:
+  Name
+  REDACTED FOR PRIVACY
+  Organization
+  REDACTED FOR PRIVACY
+  Address
+  REDACTED FOR PRIVACY
+  City
+  REDACTED FOR PRIVACY
+  State / Province
+  UT
+  Postal Code
+  REDACTED FOR PRIVACY
+  Country
+  US
+  Phone
+  REDACTED FOR PRIVACY
+  Fax
+  REDACTED FOR PRIVACY
+  Email
+
+cplusplus
+  Registrant Contact Information:
+  Name
+  Non-Public Data
+  Organization
+  Code Sites
+  Address
+  Non-Public Data
+  City
+  Non-Public Data
+  State / Province
+  CA
+  Postal Code
+  00000
+  Country
+  US
+  Phone
+  Non-Public Data
+  Email
+
+
+  Administrative Contact Information:
+  Name
+  Non-Public Data
+  Organization
+  Code Sites
+  Address
+  Non-Public Data
+  City
+  Non-Public Data
+  State / Province
+  CA
+  Postal Code
+  00000
+  Country
+  US
+  Phone
+  Non-Public Data
+  Email
+
+
+  Technical Contact Information:
+  Name
+  Non-Public Data
+  Organization
+  Code Sites
+  Address
+  Non-Public Data
+  City
+  Non-Public Data
+  State / Province
+  CA
+  Postal Code
+  00000
+  Country
+  US
+  Phone
+  Non-Public Data
+  Email
+
+Java 
+  Registrant Contact Information:
+  Name
+  Domain Administrator
+  Organization
+  Oracle Corporation
+  Address
+  500 Oracle Parkway M/S 501ip3,
+  City
+  Redwood Shores
+  State / Province
+  CA
+  Postal Code
+  94065
+  Country
+  US
+  Phone
+  +1.6505062220
+  Fax
+  +1.6505062120
+  Email
+
+
+  Administrative Contact Information:
+  Name
+  Domain Administrator
+  Organization
+  Oracle Corporation
+  Address
+  500 Oracle Parkway M/S 501ip3,
+  City
+  Redwood Shores
+  State / Province
+  CA
+  Postal Code
+  94065
+  Country
+  US
+  Phone
+  +1.6505062220
+  Fax
+  +1.6505062120
+  Email
+
+
+  Technical Contact Information:
+  Name
+  Domain Administrator
+  Organization
+  Oracle Corporation
+  Address
+  500 Oracle Parkway M/S 501ip3,
+  City
+  Redwood Shores
+  State / Province
+  CA
+  Postal Code
+  94065
+  Country
+  US
+  Phone
+  +1.6505062220
+  Fax
+  +1.6505062120
+  Email
+
+
+nestjs.com
+  Registrant Contact Information:
+  Name
+  REDACTED FOR PRIVACY
+  Organization
+  REDACTED FOR PRIVACY
+  Address
+  REDACTED FOR PRIVACY
+  City
+  REDACTED FOR PRIVACY
+  State / Province
+  ?l?skie
+  Postal Code
+  REDACTED FOR PRIVACY
+  Country
+  PL
+  Phone
+  REDACTED FOR PRIVACY
+  Email
+
+
+  Administrative Contact Information:
+  Name
+  REDACTED FOR PRIVACY
+  Organization
+  REDACTED FOR PRIVACY
+  Address
+  REDACTED FOR PRIVACY
+  City
+  REDACTED FOR PRIVACY
+  State / Province
+  ?l?skie
+  Postal Code
+  REDACTED FOR PRIVACY
+  Country
+  PL
+  Phone
+  REDACTED FOR PRIVACY
+  Email
+
+
+  Technical Contact Information:
+  Name
+  REDACTED FOR PRIVACY
+  Organization
+  REDACTED FOR PRIVACY
+  Address
+  REDACTED FOR PRIVACY
+  City
+  REDACTED FOR PRIVACY
+  State / Province
+  ?l?skie
+  Postal Code
+  REDACTED FOR PRIVACY
+  Country
+  PL
+  Phone
+  REDACTED FOR PRIVACY
+  Email
