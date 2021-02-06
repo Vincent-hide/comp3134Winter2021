@@ -1,0 +1,13 @@
+Vincent@DESKTOP-6I30N1E MINGW64 ~/Desktop/New folder (2)
+$ ping 205.166.76.53
+
+Pinging 205.166.76.53 with 32 bytes of data:
+Reply from 205.166.76.53: bytes=32 time=74ms TTL=243
+Reply from 205.166.76.53: bytes=32 time=78ms TTL=243
+Reply from 205.166.76.53: bytes=32 time=69ms TTL=243
+Reply from 205.166.76.53: bytes=32 time=69ms TTL=243
+
+Ping statistics for 205.166.76.53:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 69ms, Maximum = 78ms, Average = 72ms

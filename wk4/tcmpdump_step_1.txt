@@ -1,0 +1,8 @@
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# apt-get install tcpdump
+Reading package lists... Done
+Building dependency tree
+Reading state information... Done
+tcpdump is already the newest version (4.9.3-4).
+tcpdump set to manually installed.
+0 upgraded, 0 newly installed, 0 to remove and 99 not upgraded.
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# yum install tcpdump

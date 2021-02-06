@@ -1,0 +1,408 @@
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# tcpdump -r 0001.pcap
+
+        0x03e0:  7549 e1ca 095a a14f 4ab1 cbe6 1bff e1dc  uI...Z.OJ.......
+        0x03f0:  48ba b83c 46db 2c2e bfca d3e2 1e4b c895  H..<F.,......K..
+        0x0400:  571a decf 0014 dc2b 9f6c f212 feb5 58bb  W......+.l....X.
+        0x0410:  7f39 9153 4662 2edb ac0b 9b1a ed62 a07a  .9.SFb.......b.z
+        0x0420:  73ea 1fc7 a6cb 2e79 d780 ad81 d979 582c  s......y.....yX,
+        0x0430:  7d42 acf2 ecd0 ac82 f312 cd5f a48d 3ae8  }B........._..:.
+        0x0440:  7ee9 a846 e111 caed 6d0b 7ddf d163 d786  ~..F....m.}..c..
+        0x0450:  cce2 ed8f 92be 0b15 4b90 7a9e 609b e980  ........K.z.`...
+        0x0460:  c58f df0d fe23 9974 1d3f ec9b 2ff4 804e  .....#.t.?../..N
+        0x0470:  be74 c829 14c6 0c52 df51 fe98 eb33 7960  .t.)...R.Q...3y`
+        0x0480:  0453 8a06 c4bb afc4 4176 2940 8382 7a95  .S......Av)@..z.
+        0x0490:  1123 92c6 8341 d1d8 5c49 1914 54b2 b7e3  .#...A..\I..T...
+        0x04a0:  237a 6851 ce2f 5101 a233 04ec 96f9 4e56  #zhQ./Q..3....NV
+        0x04b0:  ebb5 8859 e2fb 662d 2a44 50d0 fbf9 abf4  ...Y..f-*DP.....
+        0x04c0:  f29a ea5d 7d64 57e4 6f8d 3f0a 3b30 8c27  ...]}dW.o.?.;0.'
+        0x04d0:  81cf dd27 24d3 274b 9c65 61f1 0cff d6c0  ...'$.'K.ea.....
+        0x04e0:  fced d061 2c2b 491d 8d4a 4ac3 4017 94b0  ...a,+I..JJ.@...
+        0x04f0:  5dbd 7c8f c5aa 16be dc60 e3d6 4443 2480  ].|......`..DC$.
+        0x0500:  336c 2a38 fb7b 4cd4 b7ac b70a e4e4 eb7c  3l*8.{L........|
+        0x0510:  edc2 6383 9080 1500 8161 ce20 657b d15c  ..c......a..e{.\
+        0x0520:  6f4c ce46 e7a6 3a80 0f4d 3657 0b2f 9942  oL.F..:..M6W./.B
+        0x0530:  12dc b722 7ecd 30e9 03c6 f06b 6bf9 5f0c  ..."~.0....kk._.
+        0x0540:  5011 e360 1963 cdc2 a7de 6154 789e 1afc  P..`.c....aTx...
+        0x0550:  c2e8 1c91 59c3 f26b 1381 988f 5845 cb7b  ....Y..k....XE.{
+        0x0560:  d461 a19b 15b2 d2af b4be c2fd 7b79 4776  .a..........{yGv
+        0x0570:  287a 5735 e222 d182 0e66 2b92 b5c0 2efc  (zW5."...f+.....
+        0x0580:  1dc3 2d41 1d6a 0496 c21b af3f 4305 7d3e  ..-A.j.....?C.}>
+        0x0590:  8d48 596d c612 7504 e912 e7f5 09db 8479  .HYm..u........y
+        0x05a0:  18d3 2a30 06d6 8518 bbdd 07c3 6897 7a45  ..*0........h.zE
+        0x05b0:  5fcb 1664 29a6 c945 6727 66c0 7838 dc94  _..d)..Eg'f.x8..
+        0x05c0:  0fa8 385c 05e8 0778 1df8 f175 3625 1f6a  ..8\...x...u6%.j
+        0x05d0:  b086 6cb7 d93a d591 82ea fddf a0ac 421e  ..l..:........B.
+        0x05e0:  edfe cf8b 73e8 9f7d 55f9 70f0 8357 797f  ....s..}U.p..Wy.
+        0x05f0:  e982 9401 f197 b62a 907e ed44 6ddc 34f5  .......*.~.Dm.4.
+        0x0600:  1e61 cf0a aea0 6222 d2ae 1f4e 6acf 7757  .a....b"...Nj.wW
+        0x0610:  63a6 20f3 917e 0699 af81 860a fcd3 f5bc  c....~..........
+        0x0620:  09eb 2a39 d08f 9fc4 f4ee 507f 3184 fd96  ..*9......P.1...
+        0x0630:  e0b4 1678 cebc f4c8 bdfb 9f3a cfbc 4f38  ...x.......:..O8
+        0x0640:  52e2 90d8 d5d7 dfec bd75 330b 85ac 3e40  R........u3...>@
+        0x0650:  c1e8 9637 2e69 b71c 2e6d 2813 db15 9b8b  ...7.i...m(.....
+        0x0660:  75c7 a4c3 0fea 4371 b2d3 ec3d b2a6 482d  u.....Cq...=..H-
+        0x0670:  82d1 4510 e78a 7404 a946 7572 0ec7 c7aa  ..E...t..Fur....
+        0x0680:  4710 e319 e124 b66b c213 eebd a277 0188  G....$.k.....w..
+        0x0690:  2469 e3b3 e3d8 d656 a527 4da4 b099 7f33  $i.....V.'M....3
+        0x06a0:  e526 c2aa f2c5 b0aa 30fe fb05 9bf3 c8e0  .&......0.......
+        0x06b0:  6a64 2cf1 f617 fcf4 587d 6393 363f dba7  jd,.....X}c.6?..
+        0x06c0:  7040 9417 d15a f074 e902 d502 90c7 eb0c  p@...Z.t........
+        0x06d0:  753c 9dde 78d7 493d e932 60ae c47f ae3e  u<..x.I=.2`....>
+        0x06e0:  4161 bb20 5dd7 d376 3027 9dab 7b94 7c88  Aa..]..v0'..{.|.
+        0x06f0:  9856 53e8 0233 2abf e745 7934 4116 5600  .VS..3*..Ey4A.V.
+        0x0700:  4369 cd11 2183 b794 2720 24cc 293d 59a8  Ci..!...'.$.)=Y.
+        0x0710:  79b2 ca67 261a d7ac 244d b528 6704 a599  y..g&...$M.(g...
+        0x0720:  49b7 71e5 6c96 09cc 4723 2b04 7138 96ce  I.q.l...G#+.q8..
+        0x0730:  763d 0f58 61f9 75dc cb11 fc64 1edb d10c  v=.Xa.u....d....
+        0x0740:  7897 57fa ae2f a466 99f4 3f09 acdb f1f1  x.W../.f..?.....
+        0x0750:  07a9 3bb8 df59 8d68 d1b0 9151 5b7a 5f08  ..;..Y.h...Q[z_.
+        0x0760:  ae68 e78f eed0 0382 9755 f919 b9e7 c93d  .h.......U.....=
+        0x0770:  db07 2c08 7d99 7139 a22b 4342 03a8 f954  ..,.}.q9.+CB...T
+        0x0780:  e46c adc5 449e 2e14 4ff1 9a20 f27f 992a  .l..D...O......*
+        0x0790:  6f16 7aba 6719 be68 fbe9 b6f8 cd0f 0f43  o.z.g..h.......C
+        0x07a0:  2dbd 404e d1e5 c119 c859 c765 9715 bf89  -.@N.....Y.e....
+        0x07b0:  2bd6 9ad0 c013 ed3a dd1d 6d4b eaab c715  +......:..mK....
+        0x07c0:  69f7 e19d 6cde 5bd9 90b7 4463 cfb3 79c6  i...l.[...Dc..y.
+        0x07d0:  d803 253e cfb2 9acf 9e13 8256 cc9c a938  ..%>.......V...8
+        0x07e0:  074b 64d5 82fc 75a8 4f94 10bf 99b4 514f  .Kd...u.O.....QO
+        0x07f0:  a51a a025 cf9c 30b8 a9bd 35da 1c4b 8ae3  ...%..0...5..K..
+        0x0800:  3077 ce83 8602 7b1c 4aa7 1136 2aec 542e  0w....{.J..6*.T.
+        0x0810:  c686 0788 a299 9438 9507 4539 d1ef 64a8  .......8..E9..d.
+        0x0820:  1edb 4a15 68fc 541e 2b74 1561 a9d3 53c2  ..J.h.T.+t.a..S.
+        0x0830:  c8d3 a4ca f0a9 2798 a9de d10c c1c6 3076  ......'.......0v
+        0x0840:  f0e6 b6d3 fc63 ca77 7b43 91de bb32 57b5  .....c.w{C...2W.
+        0x0850:  8628 a2e3 b5f1 0417 a2b0 d2a3 c994 5a4c  .(............ZL
+        0x0860:  9f0b 5fa4 bf72 9e2a 6c08 c2d9 8696 a52c  .._..r.*l......,
+        0x0870:  40b5 7f3b 9fdb 18d4 567c 0b88 632e 06b1  @..;....V|..c...
+        0x0880:  53d6 7ca2 3b11 8148 8ad7 e7bf a865 e3ac  S.|.;..H.....e..
+        0x0890:  ee7d cb40 cc1c 6269 7918 bc31 a202 580e  .}.@..biy..1..X.
+        0x08a0:  83d1 7b51 fde0 003f c41e ed54 83b4 2ccd  ..{Q...?...T..,.
+        0x08b0:  19a4 7649 950a 26f4 32b5 cbb5 14d9 3358  ..vI..&.2.....3X
+        0x08c0:  e67b f49e fc9c 33f2 a4d9 687f 4d60 1a6d  .{....3...h.M`.m
+        0x08d0:  f68d e01d 9ee5 1068 7af2 fe12 d7df b40e  .......hz.......
+        0x08e0:  b30e 42c5 f6d3 649f 7ed2 5acb 65d6 0e29  ..B...d.~.Z.e..)
+        0x08f0:  045e 1868 3bb2 2421 69cc 776e 4453 c20d  .^.h;.$!i.wnDS..
+        0x0900:  6e85 477d f469 9980 536a bae7 3002 bb14  n.G}.i..Sj..0...
+        0x0910:  1727 71d5 3c9a 840c 99cc c571 0c96 fd81  .'q.<......q....
+        0x0920:  a2a7 4529 e44b 9e3b b6d2 32c5 da34 a32c  ..E).K.;..2..4.,
+        0x0930:  df8f 229a c17b cbec 9ad2 9ed4 36f1 0c9f  .."..{......6...
+        0x0940:  2c20 ee45 0fd0 b7e2 785f 01f5 9125 d091  ,..E....x_...%..
+        0x0950:  f823 339e f4f1 827b 0506 d098 e91a 974d  .#3....{.......M
+        0x0960:  e916 1fe5 2d1c b80d 430e 2a89 73a4 7513  ....-...C.*.s.u.
+        0x0970:  2f74 bed0 5d63 4359 28f0 1989 9899 e1ed  /t..]cCY(.......
+        0x0980:  986c 4149 eec8 ece2 a7fe cdf8 7033 8ea4  .lAI........p3..
+        0x0990:  ae09 ce21 3d46 d26a 6d6a ddfc d9f5 11e7  ...!=F.jmj......
+        0x09a0:  5658 671f 79c5 7cce aea6 367e 2fde 25ac  VXg.y.|...6~/.%.
+        0x09b0:  06d6 6679 eb21 98a5 409a 9268 3cbc c71c  ..fy.!..@..h<...
+        0x09c0:  26d3 1344 0fca 1a69 3677 a555 a9f4 a2c1  &..D...i6w.U....
+        0x09d0:  c63a 42b5 f924 d65f 21a0 95e4 bab8 c69b  .:B..$._!.......
+        0x09e0:  8940 2506 8721 7c14 4a43 e76d 575c 47aa  .@%..!|.JC.mW\G.
+        0x09f0:  2662 ae75 2578 61e8 a38c 7acf 8573 7b5a  &b.u%xa...z..s{Z
+        0x0a00:  3ce1 4a05 0355 0fb2 7216 baa1 6fce 644c  <.J..U..r...o.dL
+        0x0a10:  d753 ab41 0a22 7a18 a79a eb68 f38b cd16  .S.A."z....h....
+        0x0a20:  9fba f5f1 44f3 8242 4676 7d5b 4516 4da1  ....D..BFv}[E.M.
+        0x0a30:  c939 8ccf 043c 8829 43ed 9947 8ca9 506c  .9...<.)C..G..Pl
+        0x0a40:  0308 49a1 4f78 c495 4ec9 7151 fbdc 19c2  ..I.Ox..N.qQ....
+        0x0a50:  6d4c 797e 411a 0e64 2751 3e6f 4757 2ff4  mLy~A..d'Q>oGW/.
+        0x0a60:  0501 2a3b 4168 8e6c 0a50 511c a4ad 47fb  ..*;Ah.l.PQ...G.
+        0x0a70:  30a6 cd1d 1a6e 3b96 2ac3 3110 b260 f184  0....n;.*.1..`..
+        0x0a80:  b028 7ab3 7a68 c73a 16ab bf2d 9b86 32ad  .(z.zh.:...-..2.
+        0x0a90:  ba40 8d0f a3c9 ad61 df14 7696 b8e9 ebfa  .@.....a..v.....
+        0x0aa0:  0ab8 1fce 3f54 939c 6cd8 f9d9 a325 aef4  ....?T..l....%..
+        0x0ab0:  d7a2 94f9 69e4 4c0b 2134 9621 3d94 be65  ....i.L.!4.!=..e
+        0x0ac0:  4879 bc48 f730 7071 2ba3 3fcf 00f0 eaa0  Hy.H.0pq+.?.....
+        0x0ad0:  0ea6 b2f4 0cf9 fbc1 7a08 5cc4 d6db fa5a  ........z.\....Z
+        0x0ae0:  67fa 82b7 77da fd94 4294 2729 179f 5ced  g...w...B.')..\.
+        0x0af0:  1d8b 974a ef7e 58d4 1c35 173b 4812 fed4  ...J.~X..5.;H...
+        0x0b00:  dfe7 cf38 4a14 9b39 d991 5614 8790 da26  ...8J..9..V....&
+        0x0b10:  6100 5859 4362 2293 6efb 00d3 4eb7 6504  a.XYCb".n...N.e.
+        0x0b20:  b9b4 3cea d416 5d27 251d c70d cb81 d280  ..<...]'%.......
+        0x0b30:  64c3 9d7a 757b 034a cf29 9de1 6731 c0d0  d..zu{.J.)..g1..
+        0x0b40:  a410 a404 e814 1ea6 5cc8 f5dd 7b58 f82a  ........\...{X.*
+        0x0b50:  ac52 64e6 a88e 4cd3 3a8d 442e 145b 2c68  .Rd...L.:.D..[,h
+        0x0b60:  fe63 0f2b c146 bfa2 51f6 a895 9504 a488  .c.+.F..Q.......
+        0x0b70:  80e0 502f e23a 2add d193 198e 1135 fcbb  ..P/.:*......5..
+        0x0b80:  365d 7b5e dc0a f6cf 467a 3784 5397       6]{^....Fz7.S.
+22:28:31.511807 IP bras-base-toroon0560w-grc-34-76-64-134-8.dsl.bell.ca.62923 > 134.122.35.219.ssh: Flags [P.], seq 2125:2197, ack 4293668, win 516, length 72
+        0x0000:  cedc d743 bec4 fe00 0000 0101 0800 4500  ...C..........E.
+        0x0010:  0070 e5cc 4000 7606 a21d 4c40 8608 867a  .p..@.v...L@...z
+        0x0020:  23db f5cb 0016 2688 0181 570a 2b5d 5018  #.....&...W.+]P.
+        0x0030:  0204 1d6f 0000 0c75 0e77 e529 a54c ef4f  ...o...u.w.).L.O
+        0x0040:  296c 7537 d65d 12d6 68f0 1d22 b2d2 a95f  )lu7.]..h.."..._
+        0x0050:  892b 7a1a c633 0768 d735 94c2 d800 c227  .+z..3.h.5.....'
+        0x0060:  83f5 40a3 5df6 a137 9497 2670 088c e583  ..@.]..7..&p....
+        0x0070:  e2b6 cd32 a8f9 6b74 0267 acc0 bcf1       ...2..kt.g....
+22:28:31.528825 IP bras-base-toroon0560w-grc-34-76-64-134-8.dsl.bell.ca.62923 > 134.122.35.219.ssh: Flags [.], ack 4303832, win 476, length 0
+        0x0000:  cedc d743 bec4 fe00 0000 0101 0800 4500  ...C..........E.
+        0x0010:  0028 e5cd 4000 7606 a264 4c40 8608 867a  .(..@.v..dL@...z
+        0x0020:  23db f5cb 0016 2688 01c9 570a 5311 5010  #.....&...W.S.P.
+        0x0030:  01dc 690c 0000 0000 0000 0000            ..i.........
+22:28:31.528867 IP 134.122.35.219.ssh > bras-base-toroon0560w-grc-34-76-64-134-8.dsl.bell.ca.62923: Flags [P.], seq 4393856:4396760, ack 2197, win 501, length 2904
+        0x0000:  fe00 0000 0101 cedc d743 bec4 0800 4510  .........C....E.
+        0x0010:  0b80 53e6 4000 4006 5ee4 867a 23db 4c40  ..S.@.@.^..z#.L@
+        0x0020:  8608 0016 f5cb 570b b2b9 2688 01c9 5018  ......W...&...P.
+        0x0030:  01f5 8810 0000 5a5d d6a3 6413 8cfa 384c  ......Z]..d...8L
+        0x0040:  44c5 2a78 51fc b428 87fb 5cf8 7022 54d4  D.*xQ..(..\.p"T.
+        0x0050:  d1d8 6ade 4a36 ea0d 2045 5824 2b55 0de5  ..j.J6...EX$+U..
+        0x0060:  b392 33b7 f13c 9f09 1585 ae84 e082 895a  ..3..<.........Z
+        0x0070:  c4ab cbb8 d8f5 5451 d1c6 0904 2689 685e  ......TQ....&.h^
+        0x0080:  6c0e 1091 f7ea d2fe c410 e244 a727 2b93  l..........D.'+.
+        0x0090:  f683 1d93 db8e 7667 9a50 5684 0f2d dc08  ......vg.PV..-..
+        0x00a0:  ff60 2043 8086 e020 feef 2361 8014 a946  .`.C......#a...F
+        0x00b0:  d46e 4c04 4f29 24ff 17dc 7644 1773 7021  .nL.O)$...vD.sp!
+        0x00c0:  7a0b c543 7dcb b324 6073 f5ed 3e54 cdc9  z..C}..$`s..>T..
+        0x00d0:  ab5e eef7 d724 21f2 c027 e915 858a 7ee1  .^...$!..'....~.
+        0x00e0:  bff0 88a3 536a 5e5e 4f4d 21b1 fffe add5  ....Sj^^OM!.....
+        0x00f0:  8b5e cce7 422d e0ae 4a1f b564 353f b927  .^..B-..J..d5?.'
+        0x0100:  8149 95a9 7e89 5fef cad9 b3d5 bb03 c1ac  .I..~._.........
+        0x0110:  eaad 1563 956f 2931 fd12 0701 4c18 6fbc  ...c.o)1....L.o.
+        0x0120:  5650 117e c23c 57a1 849a 6c72 c342 5db0  VP.~.<W...lr.B].
+        0x0130:  7e0d 4f3e cea9 5523 f543 7b0d 2231 31c3  ~.O>..U#.C{."11.
+        0x0140:  23d7 1cd1 7323 1022 479f 1647 d13c 58b3  #...s#."G..G.<X.
+        0x0150:  cae2 2977 a11b ff7c 5d80 0272 97eb 4d45  ..)w...|]..r..ME
+        0x0160:  ceab 7148 2e99 1bbf 8730 0a0c fcd4 53ad  ..qH.....0....S.
+        0x0170:  343c caff f6f5 0c7a a431 d06f f231 4e86  4<.....z.1.o.1N.
+        0x0180:  d40d cbc3 519c ef2c 487d 3aa2 940c c6e4  ....Q..,H}:.....
+        0x0190:  b8dd c756 03fb b35b c7fd 524c 7d25 664b  ...V...[..RL}%fK
+        0x01a0:  8ed4 e21c 878c 8609 4c0f a7df 386b 5154  ........L...8kQT
+        0x01b0:  c46e 3b9c 1e4f 3566 0c5e 5547 a6dd 4ddb  .n;..O5f.^UG..M.
+        0x01c0:  cbb7 da77 a9a8 b2cf e382 398d f2e1 1325  ...w......9....%
+        0x01d0:  37fe 04dd e2e0 b2dc 0db9 c7d5 2b72 b25f  7...........+r._
+        0x01e0:  a318 88ad 7469 92df 7f06 1cff aafa 8bf2  ....ti..........
+        0x01f0:  345f 1a03 289f 74c2 12c2 bb03 acdf a2bb  4_..(.t.........
+        0x0200:  4ce7 656a ba27 6795 0033 63e0 2f48 5c60  L.ej.'g..3c./H\`
+        0x0210:  98c9 c3b3 0885 4afe 0a04 3bd1 427f a3e1  ......J...;.B...
+        0x0220:  b24c c858 26ff 27bb da23 7c0c c9b1 3798  .L.X&.'..#|...7.
+        0x0230:  71c6 9856 6c0a 7b95 bca5 6d4c d088 6dda  q..Vl.{...mL..m.
+        0x0240:  5be6 3dd6 d3ba 2760 128b 3c92 6e40 d24e  [.=...'`..<.n@.N
+        0x0250:  ed3d 0e26 7cfd cf60 26b9 0388 8652 7aca  .=.&|..`&....Rz.
+        0x0260:  34b1 21ee ac44 7062 1bac eb85 b7f0 8de4  4.!..Dpb........
+        0x0270:  a8dd f3fd 5ac4 4a8a b786 f06c b380 b64d  ....Z.J....l...M
+        0x0280:  841a c99c 2fa0 0d86 50b4 2729 8dfa 1e7a  ..../...P.')...z
+        0x0290:  3c27 e003 b15c 7160 ec6c 8d28 9301 9561  <'...\q`.l.(...a
+        0x02a0:  4e22 a3a5 1df5 238b d837 a418 f984 8d1f  N"....#..7......
+        0x02b0:  cc6e cfc9 a607 626a 7ba7 1247 20fc 991c  .n....bj{..G....
+        0x02c0:  ca3a cf96 0ea8 e6a5 d633 5ccf 1383 9f2c  .:.......3\....,
+        0x02d0:  045e b472 7622 016c 7ed2 48cb e6ea 99d3  .^.rv".l~.H.....
+        0x02e0:  0966 10e8 3784 8a36 8643 dab8 4f42 bf4b  .f..7..6.C..OB.K
+        0x02f0:  7aa5 260e 7390 3a34 0c9d ae2a c6bc 2f7f  z.&.s.:4...*../.
+        0x0300:  5ce9 ee6e 5faa 67ae 554d 6d49 eb1b c44c  \..n_.g.UMmI...L
+        0x0310:  e00a 08ac 4da4 ffe4 75dc 3ee3 0f51 e24a  ....M...u.>..Q.J
+        0x0320:  6549 36bb 9f69 00e8 0603 5558 8a82 84c0  eI6..i....UX....
+        0x0330:  d3a9 7fd5 4dac 814b 38cd cb17 c006 2649  ....M..K8.....&I
+        0x0340:  6079 e3cf a6dc 4522 ec40 b6fd 957c 0fca  `y....E".@...|..
+        0x0350:  4943 295c c61f a7c4 4141 ae4b 2d9c 2586  IC)\....AA.K-.%.
+        0x0360:  b697 5d40 c9e9 34b5 f77c 1972 5d3e af2d  ..]@..4..|.r]>.-
+        0x0370:  2be7 516b b355 d65e 5cff fcea a98f 50d4  +.Qk.U.^\.....P.
+        0x0380:  34a9 f7d6 78f2 a1b9 92df 387a 3ce3 c134  4...x.....8z<..4
+        0x0390:  48d4 c355 09f3 7d79 5e64 50b2 2c29 6bf2  H..U..}y^dP.,)k.
+        0x03a0:  7be7 17d1 a779 d84d 528a 9fb1 c466 90ad  {....y.MR....f..
+        0x03b0:  449e a720 bb72 9928 7b1e 2267 c01e aff4  D....r.({."g....
+        0x03c0:  c441 c9e6 9608 547a 2e56 84e6 780f 191d  .A....Tz.V..x...
+        0x03d0:  d108 00cd d11c 114d 97d9 68a7 d38c add4  .......M..h.....
+        0x03e0:  70cd da9c ac19 e057 f1e8 b81c fa50 1214  p......W.....P..
+        0x03f0:  92ef bde1 f079 7acb 8272 3870 e0ee a89b  .....yz..r8p....
+        0x0400:  9662 9c24 34b6 f240 b3d3 e19c bc26 b22b  .b.$4..@.....&.+
+        0x0410:  67dc ffaa c35b fe09 d00b 3c7c 12b0 00a8  g....[....<|....
+        0x0420:  6ec6 df98 488f 821e 913c bd25 1dfb 947d  n...H....<.%...}
+        0x0430:  1c7e bfff feaf 2a9b 37ee e09c f682 0337  .~....*.7......7
+        0x0440:  3469 90cb 7fcc 1e11 af25 4603 e2d3 e2f0  4i.......%F.....
+        0x0450:  e891 55ce fd88 e4b1 d60e 20fb 457a a0b2  ..U.........Ez..
+        0x0460:  52d6 0b80 132c f01f 62cc b042 36c6 98ef  R....,..b..B6...
+        0x0470:  c015 2920 8194 e835 1536 45a6 c2e3 e6a8  ..)....5.6E.....
+        0x0480:  aeb1 0705 4361 e5c0 6e02 f25d 269d fdb7  ....Ca..n..]&...
+        0x0490:  3830 0d90 724a 97a8 d97c 0661 e95e 87e3  80..rJ...|.a.^..
+        0x04a0:  8e8f 4b9a eab1 41e0 d333 248e ef2e ca2b  ..K...A..3$....+
+        0x04b0:  97e1 2fb6 e5a4 652b 48eb 20ce c5f1 c7b2  ../...e+H.......
+^C      0x04c0:  b9aa ac58 5d6d 40fb 076d 39ab e473 c775  ...X]m@..m9..s.u
+        0x04d0:  5fb0 9d53 255c ba88 d139 4e6a 3251 269c  _..S%\...9Nj2Q&.
+        0x04e0:  d9d3 e9be b465 9e05 8db4 3a7c bc13 8c2c  .....e....:|...,
+        0x04f0:  ae73 8110 d148 0888 7566 c5a9 d6f8 0941  .s...H..uf.....A
+        0x0500:  b963 c6af a563 bbc0 362a ef9b 7001 1a7a  .c...c..6*..p..z
+        0x0510:  f4c7 f3e0 4897 1248 4183 b12e 0572 acf9  ....H..HA....r..
+        0x0520:  b07f c29c 0e4b fb99 1b64 4a15 9bf8 6e5d  .....K...dJ...n]
+        0x0530:  ac13 1804 72c7 e2ee c3a3 892c d7a8 e8a4  ....r......,....
+        0x0540:  b76a 0164 96b6 fdb2 0d90 c25f a8c7 8219  .j.d......._....
+        0x0550:  9f02 30d2 a238 13f3 76a6 65b9 d16e 4157  ..0..8..v.e..nAW
+        0x0560:  16dd 4659 a87f a2fe 0377 b48b c7c2 73c2  ..FY.....w....s.
+        0x0570:  ad8f 50a9 5857 bdc4 8422 cbc6 8a88 b5be  ..P.XW..."......
+        0x0580:  a7e3 5e27 cd42 f6ea ec06 5623 dd44 ac2d  ..^'.B....V#.D.-
+        0x0590:  fe8b cbea 5db3 b4c2 4da0 9c6c b1da 4723  ....]...M..l..G#
+        0x05a0:  9874 0231 681f 1aec 1b88 042b 65c9 a03b  .t.1h......+e..;
+        0x05b0:  3c43 209a 8b79 383b 742d 31fc a365 0652  <C...y8;t-1..e.R
+        0x05c0:  7815 75b4 7ca3 0041 dd74 c9f9 1bb9 bb3b  x.u.|..A.t.....;
+        0x05d0:  6e1a 1875 0f69 85c7 0be1 547f d53b 1304  n..u.i....T..;..
+        0x05e0:  f8ce c5e3 fa4b 3b71 88cb 6158 3d5a 1d7d  .....K;q..aX=Z.}
+        0x05f0:  e3ff 392c 67cd c19a 7ed1 589a 22f7 b313  ..9,g...~.X."...
+        0x0600:  4647 e8fc d2b3 8127 15ba a65d cc11 0bc9  FG.....'...]....
+        0x0610:  4336 3f9a 3dc4 4a46 49bc 1889 b00e fff1  C6?.=.JFI.......
+        0x0620:  d9d5 2f8d 693b a238 0973 ae4b ebb8 b7e6  ../.i;.8.s.K....
+        0x0630:  7010 44be 6122 432a 785c 0d2c 713c 649d  p.D.a"C*x\.,q<d.
+        0x0640:  2146 a11e bfd3 6e5c 23cd ae39 4780 207c  !F....n\#..9G..|
+        0x0650:  67cb 8312 ff62 e6ae 2da6 b8ef a00d b472  g....b..-......r
+        0x0660:  6b52 9979 69ed 45fc 20e3 2a9c 9afe e32d  kR.yi.E...*....-
+        0x0670:  a9a9 a7a2 c34d c8a7 2e61 8f6d ae78 47e6  .....M...a.m.xG.
+        0x0680:  04a4 5061 ac78 a2f1 26f2 bb34 2680 7c4f  ..Pa.x..&..4&.|O
+        0x0690:  e26c 11c7 8bdf d56e 7df5 b24d f54c 3718  .l.....n}..M.L7.
+        0x06a0:  9df7 a431 43e6 9dec a51a 7f8a a952 eac1  ...1C........R..
+        0x06b0:  8aa4 8cf7 3ab0 a1cd 9f9f ed01 bf08 f9c2  ....:...........
+        0x06c0:  0381 63a5 881e 34bd b41d b1f5 e494 4625  ..c...4.......F%
+        0x06d0:  21eb 9ae9 7858 0cd8 a1f0 3ba6 d633 5978  !...xX....;..3Yx
+        0x06e0:  5b8f fb80 148e eb65 4838 8c0f 3255 736d  [......eH8..2Usm
+        0x06f0:  6de6 00de ab82 6089 e9c8 0fcd bea1 7d21  m.....`.......}!
+        0x0700:  a41c ae5b 0e4f 4bbb 5d7b 1410 8ee1 9c46  ...[.OK.]{.....F
+        0x0710:  20cf e254 c0f8 e7cc 3155 2fcb 90f2 c856  ...T....1U/....V
+        0x0720:  23ee 6da5 6339 304b fdaa 2b07 46dc 6002  #.m.c90K..+.F.`.
+        0x0730:  60c9 1a04 44ec 0cc9 9b09 1964 5c7b 5067  `...D......d\{Pg
+        0x0740:  3079 6663 8ef4 b0e7 ca5c 2234 6c9a 5c1a  0yfc.....\"4l.\.
+        0x0750:  9a3b de6a 6118 2720 d52a da0f 1c1a a13b  .;.ja.'..*.....;
+        0x0760:  5446 423a 2869 721e 7077 4006 36ca 625d  TFB:(ir.pw@.6.b]
+        0x0770:  3fa5 8bc3 aeca 1f22 6271 c194 ebc1 d923  ?......"bq.....#
+        0x0780:  8431 be99 b98d 1d2c d0e7 5ca2 03d3 ff76  .1.....,..\....v
+        0x0790:  9c86 3c60 4103 5ebe 34cf 15a3 c72f 16e2  ..<`A.^.4..../..
+        0x07a0:  3e05 8801 1ee6 26c5 a5c0 19a0 b7dc 3785  >.....&.......7.
+        0x07b0:  e207 e2c2 08c4 6ff1 e872 96c1 0646 b61b  ......o..r...F..
+        0x07c0:  ca75 3da9 a572 3771 ac40 2f8a 956f 7965  .u=..r7q.@/..oye
+        0x07d0:  9e3e efec f76e 4ec0 20a8 75c7 f5dd 5e67  .>...nN...u...^g
+        0x07e0:  8092 f163 7afa 4d16 140d ba98 701d 526c  ...cz.M.....p.Rl
+        0x07f0:  a7fa bbd9 13ab b854 d112 5310 aba3 a72c  .......T..S....,
+        0x0800:  27e4 9328 a082 fa74 a22f dd6a 0950 dc09  '..(...t./.j.P..
+        0x0810:  7218 289b 326a 2e91 1cb0 6155 b3aa 5f7a  r.(.2j....aU.._z
+        0x0820:  5dc5 87ef cf30 2036 f423 e54a 8b2e e2ba  ]....0.6.#.J....
+        0x0830:  1219 c7dc aa99 f0a9 cd6e 11c5 d84b fb73  .........n...K.s
+        0x0840:  71f1 60fc 6898 1142 43c9 df01 69bd fe25  q.`.h..BC...i..%
+        0x0850:  1588 3ee6 7fcd 5231 f79c a6ed c0e2 5769  ..>...R1......Wi
+        0x0860:  2bf4 62f9 b1fc ffbe 4b62 b4b8 a480 7c2d  +.b.....Kb....|-
+        0x0870:  1c40 c3af 9719 6b37 4ffd 61cf 5519 ffa2  .@....k7O.a.U...
+        0x0880:  c8e1 c3ec 2f00 e138 fb3d 4208 4644 ae16  ..../..8.=B.FD..
+        0x0890:  fbae 09db a0d5 c013 9cda d26a aa04 ec8e  ...........j....
+        0x08a0:  d72d bc20 7f3b 614d afce 4e58 7f5a f73e  .-...;aM..NX.Z.>
+        0x08b0:  ce09 e651 a9f6 ee2c 978b 8c81 872c 2a5e  ...Q...,.....,*^
+        0x08c0:  be73 1cdb 2858 8e10 2cad ac8a 98cb fc5b  .s..(X..,......[
+        0x08d0:  c22a b3c9 d1b5 6a77 907e 4d48 f45a 0d36  .*....jw.~MH.Z.6
+        0x08e0:  5175 eea8 6b70 2768 4c81 c3c8 1c29 59d5  Qu..kp'hL....)Y.
+        0x08f0:  47dc 94ff 4980 53d3 a124 573c d3b3 b8ed  G...I.S..$W<....
+        0x0900:  a247 45e8 6780 a193 646b 03fc 15c4 7eb2  .GE.g...dk....~.
+        0x0910:  0bd8 39d8 378e 7053 2980 26e5 1ca8 2627  ..9.7.pS).&...&'
+        0x0920:  a4bd 22da 4d1e 1420 06c8 d947 a451 7d84  ..".M......G.Q}.
+        0x0930:  a9f7 edc6 cc3d 4377 4994 916d 0962 e070  .....=CwI..m.b.p
+        0x0940:  66d6 e70b 4623 ff1f c111 1345 0244 4b6f  f...F#.....E.DKo
+        0x0950:  604a 564b 260f 7447 a0a1 533d 4f97 841c  `JVK&.tG..S=O...
+        0x0960:  5c77 cfd1 944b c404 9f44 90b8 a19b f2fe  \w...K...D......
+        0x0970:  2858 c5b7 ac0c d6da c99f 61a8 18d9 7270  (X........a...rp
+        0x0980:  6511 abb2 d03d 5a7f f650 3262 d969 ba5f  e....=Z..P2b.i._
+        0x0990:  ba57 0045 9fb3 4ad2 922b c971 cfe8 ee38  .W.E..J..+.q...8
+        0x09a0:  9d04 1764 fa34 1053 475a cc99 f53f 4cbf  ...d.4.SGZ...?L.
+        0x09b0:  5f8b 2ec6 1814 8132 353f 7b9a 04ff a3cd  _......25?{.....
+        0x09c0:  14d3 aaff fc33 6486 80d8 5d49 45e3 2171  .....3d...]IE.!q
+        0x09d0:  9fe8 4fed 3da0 6e05 cbed c1b4 3a6b 675c  ..O.=.n.....:kg\
+        0x09e0:  5c3f c3c3 f0b2 6cc3 cc20 6b2c 8b93 0e47  \?....l...k,...G
+        0x09f0:  de5c 30ae 6fed 7756 c83e aa64 21bc 5da2  .\0.o.wV.>.d!.].
+        0x0a00:  b7ce 757d 1bd8 5c5d 0a9c 9b19 db08 d859  ..u}..\].......Y
+        0x0a10:  c323 38b8 3faa cd7c 81a8 40bb 4648 2688  .#8.?..|..@.FH&.
+        0x0a20:  4d21 f053 d489 9f1d 6740 67ac 2487 b3e2  M!.S....g@g.$...
+        0x0a30:  daa5 284c 0dc9 9968 88b8 a851 d5c0 98c0  ..(L...h...Q....
+        0x0a40:  7c9f 3c07 ebd1 0de0 677b b095 a1ea 2cf5  |.<.....g{....,.
+        0x0a50:  ef84 7fcc 6038 d5ce 3615 cc33 1c0e f753  ....`8..6..3...S
+        0x0a60:  68a8 7e47 d63d 48c3 394a 0eb4 71cc 532c  h.~G.=H.9J..q.S,
+        0x0a70:  9a1d 78b1 5c7d a563 94ec e112 bd5b 92ec  ..x.\}.c.....[..
+        0x0a80:  6331 9158 31b7 f107 f0c6 b220 0832 c677  c1.X1........2.w
+        0x0a90:  486d 7bdb 3de0 9866 9b3b d627 6dda de1a  Hm{.=..f.;.'m...
+        0x0aa0:  15ff 8829 ac0e 63ab 21dc 08b4 c4e2 ad1d  ...)..c.!.......
+        0x0ab0:  27f3 f8b3 e268 0c94 928f dc7f f25d c3d9  '....h.......]..
+        0x0ac0:  7313 3a02 aa59 cd69 8215 806e 86c1 8ebd  s.:..Y.i...n....
+        0x0ad0:  f2e1 e285 84e9 5c42 dd4b 73f1 6c49 eaff  ......\B.Ks.lI..
+        0x0ae0:  600b d679 4114 cb6a 270c 798e 5db4 4395  `..yA..j'.y.].C.
+        0x0af0:  c46e 0d0b 759d 8c7c 12b9 5fd5 b1fd a1eb  .n..u..|.._.....
+        0x0b00:  b13c 04ab 9024 5113 4611 5015 2de0 d41a  .<...$Q.F.P.-...
+        0x0b10:  4272 5051 fadf a7cb cb81 a394 520c ab86  BrPQ........R...
+        0x0b20:  fd66 aec0 0d8a 8ef2 a136 c994 ec2f 4766  .f.......6.../Gf
+        0x0b30:  1bd2 2735 97a6 6e69 4221 4916 0030 9d9e  ..'5..niB!I..0..
+        0x0b40:  6e8d 7bfa 63cc 59d5 b20d 4c7d 1d88 c2f5  n.{.c.Y...L}....
+        0x0b50:  2115 215e c9a7 f425 229d a16d 95a6 657b  !.!^...%"..m..e{
+        0x0b60:  247a 846f b8a6 defe 02cb b6c6 b232 73e2  $z.o.........2s.
+        0x0b70:  8ff2 fbe0 cfd1 01eb 2cce fca2 0e77 fbfe  ........,....w..
+        0x0b80:  6100 bd76 64bb f0fa 019c c4f0 e981       a..vd.........
+
+657 packets captured
+2844 packets received by filter
+2155 packets dropped by kernel
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# ^C
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# ^C
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# tcpdump -XX -i eth0^C
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# tcpdump -w 0001.pcap -i eth0
+tcpdump: listening on eth0, link-type EN10MB (Ethernet), capture size 262144 bytes
+^C203 packets captured
+204 packets received by filter
+0 packets dropped by kernel
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# ^C
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# tcpdump -r 0001.pcap
+reading from file 0001.pcap, link-type EN10MB (Ethernet)
+22:29:06.795511 IP 134.122.35.219.ssh > bras-base-toroon0560w-grc-34-76-64-134-8.dsl.bell.ca.62923: Flags [P.], seq 1461413449:1461413493, ack 646449521, win 501, length 44
+22:29:06.795652 IP 134.122.35.219.ssh > bras-base-toroon0560w-grc-34-76-64-134-8.dsl.bell.ca.62923: Flags [P.], seq 44:152, ack 1, win 501, length 108
+22:29:06.795747 IP 134.122.35.219.ssh > bras-base-toroon0560w-grc-34-76-64-134-8.dsl.bell.ca.62923: Flags [P.], seq 152:188, ack 1, win 501, length 36
+22:29:06.800942 IP bras-base-toroon0560w-grc-34-76-64-134-8.dsl.bell.ca.62923 > 134.122.35.219.ssh: Flags [.], ack 44, win 515, length 0
+22:29:06.802862 IP bras-base-toroon0560w-grc-34-76-64-134-8.dsl.bell.ca.62923 > 134.122.35.219.ssh: Flags [.], ack 188, win 514, length 0
+22:29:10.561859 IP 194.147.140.32.46317 > 134.122.35.219.3216: Flags [S], seq 3459943536, win 1024, length 0
+22:29:17.559772 IP 85.119.151.251.44155 > 10.20.0.5.3128: Flags [S], seq 2733529697, win 1024, length 0
+22:29:17.921333 IP 85.119.151.251.44155 > 10.20.0.5.65531: Flags [S], seq 1152127590, win 1024, length 0
+22:29:18.095542 IP 194.147.140.109.56272 > 10.20.0.5.59390: Flags [S], seq 2799339055, win 1024, length 0
+22:29:30.194476 IP static.vnpt.vn.64363 > 10.20.0.5.microsoft-ds: Flags [S], seq 3613616728, win 8192, options [mss 1452,nop,wscale 2,nop,nop,sackOK], length 0
+22:29:30.838293 IP ec2-52-35-177-138.us-west-2.compute.amazonaws.com > 10.20.0.5: ICMP echo request, id 25, seq 9460, length 64
+22:29:30.838370 IP 10.20.0.5 > ec2-52-35-177-138.us-west-2.compute.amazonaws.com: ICMP echo reply, id 25, seq 9460, length 64
+22:29:32.096386 IP ec2-54-190-139-180.us-west-2.compute.amazonaws.com > 10.20.0.5: ICMP echo request, id 28, seq 15570, length 64
+22:29:32.096462 IP 10.20.0.5 > ec2-54-190-139-180.us-west-2.compute.amazonaws.com: ICMP echo reply, id 28, seq 15570, length 64
+22:29:33.184573 IP static.vnpt.vn.64363 > 10.20.0.5.microsoft-ds: Flags [S], seq 3613616728, win 8192, options [mss 1452,nop,wscale 2,nop,nop,sackOK], length 0
+22:29:33.988964 IP 170.106.37.251.51207 > 10.20.0.5.5673: UDP, length 21
+22:29:34.825816 IP 194.147.140.109.56272 > 10.20.0.5.52114: Flags [S], seq 3714161317, win 1024, length 0
+22:29:35.994433 IP websec-test.com.42465 > 10.20.0.5.10862: Flags [S], seq 1429673491, win 1024, length 0
+22:29:38.340842 IP 198.98.61.98.57496 > 134.122.35.219.81: Flags [S], seq 2728811508, win 65535, length 0
+22:29:52.439200 IP ec2-34-222-239-218.us-west-2.compute.amazonaws.com > 10.20.0.5: ICMP echo request, id 19, seq 2285, length 64
+22:29:52.439322 IP 10.20.0.5 > ec2-34-222-239-218.us-west-2.compute.amazonaws.com: ICMP echo reply, id 19, seq 2285, length 64
+22:29:54.966446 IP 49.118.201.40.15481 > 134.122.35.219.http: Flags [S], seq 2572863108, win 29200, options [mss 1400,sackOK,TS val 643405055 ecr 0,nop,wscale 7], length 0
+22:29:54.966543 IP 134.122.35.219.http > 49.118.201.40.15481: Flags [S.], seq 2483148427, ack 2572863109, win 65160, options [mss 1460,sackOK,TS val 441739113 ecr 643405055,nop,wscale 7], length 0
+22:29:55.268212 IP 106.45.9.13.44926 > 134.122.35.219.http: Flags [S], seq 1602889235, win 29200, options [mss 1400,sackOK,TS val 643405137 ecr 0,nop,wscale 7], length 0
+22:29:55.268310 IP 134.122.35.219.http > 106.45.9.13.44926: Flags [S.], seq 2953510551, ack 1602889236, win 65160, options [mss 1460,sackOK,TS val 1328365854 ecr 643405137,nop,wscale 7], length 0
+22:29:55.293356 IP 49.118.201.40.15481 > 134.122.35.219.http: Flags [.], ack 1, win 229, options [nop,nop,TS val 643405137 ecr 441739113], length 0
+22:29:55.293400 IP 49.118.201.40.15481 > 134.122.35.219.http: Flags [F.], seq 1, ack 1, win 229, options [nop,nop,TS val 643405137 ecr 441739113], length 0
+22:29:55.293649 IP 134.122.35.219.http > 49.118.201.40.15481: Flags [F.], seq 1, ack 2, win 510, options [nop,nop,TS val 441739440 ecr 643405137], length 0
+22:29:55.556218 IP 106.45.9.13.44926 > 134.122.35.219.http: Flags [.], ack 1, win 229, options [nop,nop,TS val 643405209 ecr 1328365854], length 0
+22:29:55.556485 IP 106.45.9.13.44926 > 134.122.35.219.http: Flags [P.], seq 1:478, ack 1, win 229, options [nop,nop,TS val 643405209 ecr 1328365854], length 477: HTTP: HEAD http://110.242.68.4/ HTTP/1.1
+22:29:55.556583 IP 134.122.35.219.http > 106.45.9.13.44926: Flags [.], ack 478, win 506, options [nop,nop,TS val 1328366142 ecr 643405209], length 0
+22:29:55.558229 IP 134.122.35.219.http > 106.45.9.13.44926: Flags [P.], seq 1:340, ack 478, win 506, options [nop,nop,TS val 1328366144 ecr 643405209], length 339: HTTP: HTTP/1.1 200 OK
+22:29:55.619719 IP 49.118.201.40.15481 > 134.122.35.219.http: Flags [.], ack 2, win 229, options [nop,nop,TS val 643405218 ecr 441739440], length 0
+22:29:55.845428 IP 106.45.9.13.44926 > 134.122.35.219.http: Flags [.], ack 340, win 237, options [nop,nop,TS val 643405281 ecr 1328366144], length 0
+22:29:55.845482 IP 106.45.9.13.44926 > 134.122.35.219.http: Flags [F.], seq 478, ack 340, win 237, options [nop,nop,TS val 643405281 ecr 1328366144], length 0
+22:29:55.845626 IP 134.122.35.219.http > 106.45.9.13.44926: Flags [F.], seq 340, ack 479, win 506, options [nop,nop,TS val 1328366431 ecr 643405281], length 0
+22:29:56.133694 IP 106.45.9.13.44926 > 134.122.35.219.http: Flags [.], ack 341, win 237, options [nop,nop,TS val 643405353 ecr 1328366431], length 0
+22:29:57.453509 IP 113.128.105.128.36078 > 134.122.35.219.http: Flags [S], seq 3433061444, win 29200, options [mss 1400,sackOK,TS val 1805470186 ecr 0,nop,wscale 7], length 0
+22:29:57.453625 IP 134.122.35.219.http > 113.128.105.128.36078: Flags [S.], seq 2469544227, ack 3433061445, win 65160, options [mss 1460,sackOK,TS val 2519457173 ecr 1805470186,nop,wscale 7], length 0
+22:29:57.690472 IP 113.128.105.128.36078 > 134.122.35.219.http: Flags [R], seq 3433061900, win 27345, length 0
+22:29:57.690552 IP 113.128.105.128.36078 > 134.122.35.219.http: Flags [R.], seq 456, ack 1, win 3818, length 0
+22:29:57.690561 IP 113.128.105.128.36078 > 134.122.35.219.http: Flags [R.], seq 456, ack 1, win 3818, length 0
+22:29:57.690565 IP 113.128.105.128.36078 > 134.122.35.219.http: Flags [R.], seq 456, ack 1, win 3818, length 0
+22:29:57.691227 IP 113.128.105.128.36078 > 134.122.35.219.http: Flags [.], ack 1, win 229, options [nop,nop,TS val 1805470246 ecr 2519457173], length 0
+22:29:57.691286 IP 134.122.35.219.http > 113.128.105.128.36078: Flags [R], seq 2469544228, win 0, length 0
+22:29:57.691316 IP 113.128.105.128.36078 > 134.122.35.219.http: Flags [P.], seq 1:456, ack 1, win 229, options [nop,nop,TS val 1805470246 ecr 2519457173], length 455: HTTP: GET http://www.minghui.org/ HTTP/1.1
+22:29:57.691333 IP 134.122.35.219.http > 113.128.105.128.36078: Flags [R], seq 2469544228, win 0, length 0
+22:29:58.155114 IP 146.160.61.59.broad.fz.fj.dynamic.163data.com.cn.36172 > 134.122.35.219.http: Flags [S], seq 710403047, win 29200, options [mss 1400,sackOK,TS val 1805470356 ecr 0,nop,wscale 7], length 0
+22:29:58.155215 IP 134.122.35.219.http > 146.160.61.59.broad.fz.fj.dynamic.163data.com.cn.36172: Flags [S.], seq 3236856588, ack 710403048, win 65160, options [mss 1460,sackOK,TS val 3834950975 ecr 1805470356,nop,wscale 7], length 0
+22:29:58.211232 IP scanner-13.ch1.censys-scanner.com.53807 > 134.122.35.219.12456: Flags [S], seq 1088293188, win 1024, options [mss 1460], length 0
+22:29:58.555609 IP 113.58.237.173.36210 > 134.122.35.219.http: Flags [S], seq 2723679193, win 29200, options [mss 1400,sackOK,TS val 1805470449 ecr 0,nop,wscale 7], length 0
+22:29:58.555734 IP 134.122.35.219.http > 113.58.237.173.36210: Flags [S.], seq 1581546019, ack 2723679194, win 65160, options [mss 1460,sackOK,TS val 1831451139 ecr 1805470449,nop,wscale 7], length 0
+22:29:58.788611 IP 146.160.61.59.broad.fz.fj.dynamic.163data.com.cn.36172 > 134.122.35.219.http: Flags [.], ack 1, win 229, options [nop,nop,TS val 1805470514 ecr 3834950975], length 0
+22:29:58.788670 IP 146.160.61.59.broad.fz.fj.dynamic.163data.com.cn.36172 > 134.122.35.219.http: Flags [P.], seq 1:214, ack 1, win 229, options [nop,nop,TS val 1805470514 ecr 3834950975], length 213: HTTP: CONNECT cn.bing.com:443 HTTP/1.1
+22:29:58.788743 IP 134.122.35.219.http > 146.160.61.59.broad.fz.fj.dynamic.163data.com.cn.36172: Flags [.], ack 214, win 508, options [nop,nop,TS val 3834951609 ecr 1805470514], length 0
+22:29:58.790539 IP 134.122.35.219.http > 146.160.61.59.broad.fz.fj.dynamic.163data.com.cn.36172: Flags [P.], seq 1:503, ack 214, win 508, options [nop,nop,TS val 3834951610 ecr 1805470514], length 502: HTTP: HTTP/1.1 405 Method Not Allowed
+22:29:58.905020 IP 113.58.237.173.36210 > 134.122.35.219.http: Flags [.], ack 1, win 229, options [nop,nop,TS val 1805470537 ecr 1831451139], length 0
+22:29:58.905075 IP 113.58.237.173.36210 > 134.122.35.219.http: Flags [P.], seq 1:462, ack 1, win 229, options [nop,nop,TS val 1805470537 ecr 1831451139], length 461: HTTP: GET http://www.epochtimes.com/ HTTP/1.1
+22:29:58.905166 IP 134.122.35.219.http > 113.58.237.173.36210: Flags [.], ack 462, win 506, options [nop,nop,TS val 1831451488 ecr 1805470537], length 0
+22:29:58.905208 IP 113.58.237.173.36210 > 134.122.35.219.http: Flags [R], seq 2723679655, win 32941, length 0
+22:29:59.144413 IP 182.138.137.143.36270 > 134.122.35.219.http: Flags [S], seq 3739653665, win 29200, options [mss 1400,sackOK,TS val 1805470598 ecr 0,nop,wscale 7], length 0
+22:29:59.144537 IP 134.122.35.219.http > 182.138.137.143.36270: Flags [S.], seq 805782026, ack 3739653666, win 65160, options [mss 1460,sackOK,TS val 363215111 ecr 1805470598,nop,wscale 7], length 0
+22:29:59.255926 IP 113.58.237.173.36210 > 134.122.35.219.http: Flags [R], seq 2723679655, win 0, length 0
+22:29:59.478226 IP 124.235.138.101.36314 > 134.122.35.219.http: Flags [S], seq 453743707, win 29200, options [mss 1400,sackOK,TS val 1805470687 ecr 0,nop,wscale 7], length 0
+22:29:59.478330 IP 134.122.35.219.http > 124.235.138.101.36314: Flags [S.], seq 1719133050, ack 453743708, win 65160, options [mss 1460,sackOK,TS val 2403336513 ecr 1805470687,nop,wscale 7], length 0
+^C
+22:29:59.495076 IP 124.227.31.186.36310 > 134.122.35.219.http: Flags [S], seq 2380467094, win 29200, options [mss 1400,sackOK,TS val 1805470686 ecr 0,nop,wscale 7], length 0
+
