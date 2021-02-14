@@ -1,0 +1,2 @@
+service sshd restart
+ssh root@134.122.35.219 -p 2222 -i ./vince
