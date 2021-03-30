@@ -1,0 +1,3 @@
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# alias now='date +"%Y%m%d_%H%M"'
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# sudo tcpdump -w all_traffic_$(now) -Z root | echo all_traffic_$(now)
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# sudo tcpdump -r all_traffic_20210326_1852
