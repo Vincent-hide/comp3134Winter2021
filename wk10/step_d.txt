@@ -1,0 +1,6 @@
+1) it gives a warning as below, since it would not find the directory called "hello"
+Warning:  scandir(hello): failed to open dir: No such file or directory in /var/www/html/directory_traversal_part1.php on line 7
+
+Warning:  scandir(): (errno 2): No such file or directory in /var/www/html/directory_traversal_part1.php on line 7
+
+2) This is the problem, because it shows the user what function we use in the file. Meaning, the user may know how to hack the application due to the aforementioned problem.

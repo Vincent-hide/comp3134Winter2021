@@ -1,0 +1,2 @@
+using basename, you know which directory the user is trying to access, and depends on what it returns you dispay the contents or not.
+if it passed the first valitoin, and check if the file exists

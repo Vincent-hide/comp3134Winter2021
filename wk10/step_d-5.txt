@@ -1,0 +1,9 @@
+1) it shows the file structure that is one level above
+Array
+(
+    [0] => .
+    [1] => ..
+    [2] => html
+)
+
+2) even if we validate for ../, the user may still get the file structure of the application to hack it.

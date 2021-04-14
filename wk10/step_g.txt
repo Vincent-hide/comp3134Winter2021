@@ -1,0 +1,2 @@
+In PHP and HTML, the way to make comments are different, so unless the code changes, the comments will be showmn to the user.
+and when you comment in html, it would be shown in the source page as comments
