@@ -1,0 +1,1 @@
+cross-site scripting happenes when the applition that is stores the input embeds it into a late response in a way that is vulnerable

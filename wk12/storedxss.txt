@@ -1,0 +1,1 @@
+<script>alert("this is the test to check the javascript code is working or not")<script>
