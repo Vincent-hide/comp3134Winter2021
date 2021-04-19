@@ -1,0 +1,12 @@
+1.) The result was not given as thw query did not match with any row stored in the table.
+
+2.) The query is equal to
+SELECT * FROM Users WHERE firstname='Ben'-- '
+the attacker is using SQL comment syntax. 
+The remaining code after the double-dash (--) is ignored.
+		
+so the code is equivalent to
+SELECT * FROM Users WHERE firstname='Ben';
+
+3.) The query is eqaual to 
+SELECT * FROM Users WHERE username='james' OR 1=1;
